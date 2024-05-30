@@ -5,4 +5,6 @@ public class exception {
     public void test() {
         System.out.println(exceptions);
     }
+
+
 }
